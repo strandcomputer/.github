@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="./mark.svg" width="56" height="56" alt="Strand" />
+  <img src="./banner.svg" alt="Strand — Super Intelligent Notetaking for you and your agents." width="880" />
 </p>
 
-<h1 align="center">Strand</h1>
-<p align="center">A local canvas for research. Drop in links, quotes and files — Strand links them and suggests what's missing.</p>
-
 <p align="center">
-  <a href="https://strand.computer">strand.computer</a>
+  <a href="https://strand.computer"><img src="https://img.shields.io/badge/strand.computer-visit-6c7a52?style=flat-square" alt="strand.computer" /></a>
 </p>
