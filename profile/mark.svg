@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <style>.ink { fill: #1f2219; } .string { stroke: #6c7a52; } @media (prefers-color-scheme: dark) { .ink { fill: #f0f0ee; } .string { stroke: #b7c592; } }</style>
+  <circle class="ink" cx="5" cy="7" r="3" />
+  <circle class="ink" cx="19" cy="17" r="3" />
+  <path class="string" d="M5 7 C 10 16, 14 8, 19 17" fill="none" stroke-width="2.2" stroke-linecap="round" />
+</svg>
